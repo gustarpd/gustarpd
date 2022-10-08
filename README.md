@@ -5,5 +5,5 @@
 I write JavaScript and React extensively.
 
 📫 How to reach me: https://www.linkedin.com/in/gusttaalves/ <br />
-📧 Send me a email: <a href="#">gustavo_alves777outlook.com</a>
+📧 Send me a email: <a href="mailto:gustavo_alves777outlook.com">gustavo_alves777outlook.com</a>
 
